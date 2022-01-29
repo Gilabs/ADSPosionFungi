@@ -3,8 +3,8 @@
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_banner": "ca-app-pub-8861739205405076/3423164715",
+      "main_ads_intertitial":"ca-app-pub-8861739205405076/2256893791",
       "backup_ads_banner":"db4d5e8718b97d78",
       "backup_ads_intertitial":"518cd97722c60b52",
       "interval_intertitial": 2,
@@ -16,7 +16,7 @@
       "high_paying_keyword_4": "",
       "high_paying_keyword_5": "",
       "status_app": "0",
-      "link_redirect": "https://play.google.com/store/apps/details?id=com.poisonous.fungi"
+      "link_redirect": "https://"
     }
   ]
 }
